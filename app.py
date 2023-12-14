@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def calc():
+def calculator():
     return render_template("calculator.html")
 
 

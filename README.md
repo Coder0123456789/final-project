@@ -2,8 +2,7 @@
 ### Video Demo:  <URL HERE>
 
 ### Description:
-This calculator is a simple calculator application built using HTML, CSS, Java-Script, and Python. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division, and is designed to be easy to use and understand.
-It was built as the final project for CS50x 2023. 
+This calculator is a simple calculator application built using HTML, CSS, Java-Script, and Python. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division, and is designed to be easy to use and understand. This stylish modern calculator offers great user experience that you will love seeing. You can copy the code if you so chose. You can also use this calculator as a currency converter to calculate anything you chose. The app is a simple helper for fast calculations with many basic functions including multiplying, dividing, addition and subtraction. It comes with a material design and dark theme by default, provides great user experience for easy usage.
 
 ## Summary of Key Features:
 

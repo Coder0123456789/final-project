@@ -23,11 +23,7 @@ This project was built using VSCode.
 
 ## Usage
 
-1. go to your codespace and open a terminal
-2. in the terminal paste the command, "python app.py"
-3. look for a link in the terminal and go to it
-4. you will be able to do any calculation you chose
-5. the app looks like so
+So let's start with how to run my program. Okay, first we should go into our code space and open a terminal. Make sure you are in the correct directory; otherwise, we won’t be able to open the correct file. Now we should type in our terminal “python app.py” and hit enter. In the terminal, you should see some lines of text. Look for a URL, hover over it, and click on it. It will then redirect you to a page that looks like this.
 
 
 ![Web capture_14-12-2023_145817_curly-train-4547vgwpjxv3qxq9-5000 app github dev](https://github.com/Coder0123456789/final-project/assets/115043413/558a160d-fba2-4645-a023-b6eb31fec3a2)
